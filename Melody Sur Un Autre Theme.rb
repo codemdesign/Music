@@ -1,3 +1,4 @@
+# https://soundcloud.com/code_m_design/melody-sur-un-autre-theme
 
 define :melody do |gamme, amp = 1|
   j = 0
