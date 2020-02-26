@@ -1,3 +1,5 @@
+# https://soundcloud.com/code_m_design/la-vague-with-pan
+
 define :play_note do |n, t=0.25|
   play n
   sleep t
